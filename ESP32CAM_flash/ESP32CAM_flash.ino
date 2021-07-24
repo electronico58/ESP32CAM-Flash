@@ -27,5 +27,5 @@ void loop() //Función bucle
 
 // ***************************************************
 //  Edicion realizada desde GitHub Desktop para
-// realizar un comando "Fork" desde ahi.
+// realizar un comando "Fork" desde ahi. -
 // ***************************************************
